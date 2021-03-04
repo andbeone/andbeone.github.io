@@ -57,3 +57,7 @@ exclude:
   - vendor/ruby/
   - README.md
   - MAC.md
+  - docker-compose.yml
+  - Dockerfile
+  - DOCKER.md
+  - .dockerignore
